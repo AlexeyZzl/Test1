@@ -6,13 +6,7 @@
         "--ordinaryapp": "0",
         "--v8version": ""
     },
-    "vanessa": {
-        "--vanessasettings": "tools/VBParams.json",
-        "--workspace": ".",
-        "--pathvanessa": ".",
-        "--additional": "/DisplayAllFunctions /L ru"
-    },
-    "xunit": {
+   "xunit": {
         "--xddConfig": "./tools/ТРЕНДНастройки.json",
         "testsPath": "./tools",
         "--reportsxunit": "ГенераторОтчетаJUnitXML{build/junit.xml};ГенераторОтчетаAllureXMLВерсия2{build/allure/allure.xml}",
