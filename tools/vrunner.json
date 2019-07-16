@@ -11,5 +11,12 @@
         "--workspace": ".",
         "--pathvanessa": ".",
         "--additional": "/DisplayAllFunctions /L ru"
+    },
+    "xunit": {
+        "--xddConfig": "./tools/ТРЕНДНастройки.json",
+        "testsPath": "./tools",
+        "--reportsxunit": "ГенераторОтчетаJUnitXML{build/junit.xml};ГенераторОтчетаAllureXMLВерсия2{build/allure/allure.xml}",
+        "--xddExitCodePath": "./build/xddExitCodePath.txt",
+        "--pathxunit": "./xddTestRunner.epf"
     }
 }
