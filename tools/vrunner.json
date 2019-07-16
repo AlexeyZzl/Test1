@@ -1,3 +1,4 @@
+    
 {
     "$schema": "https://raw.githubusercontent.com/silverbulleters/vanessa-runner/develop/vanessa-runner-schema.json",
     "default": {
@@ -59,4 +60,7 @@
                     "title": "The Testspath Schema",
                     "type": "string"
                 }
-}
+				}
+				
+				}
+				}
