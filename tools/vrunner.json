@@ -13,54 +13,12 @@
         "--pathvanessa": ".",
         "--additional": "/DisplayAllFunctions /L ru"
     },
-        "xunit": {
-            "additionalProperties": false,
-            "id": "/properties/xunit",
-            "description": "Параметры для команды 'xunit' - Запуск тестирования через фреймворк xUnitFor1C.",
-            "properties": {
-                "--additional": {
-                    "default": "/DisplayAllFunctions /L ru",
-                    "description": "Дополнительные параметры для запуска предприятия.",
-                    "id": "/properties/xunit/properties/--additional",
-                    "title": "The --additional Schema",
-                    "type": "string"
-                },
-                "--no-wait": {
-                    "default": false,
-                    "description": "Не ожидать завершения запущенной команды/действия.",
-                    "id": "/properties/xunit/properties/--no-wait",
-                    "title": "The --no-wait Schema",
-                    "type": "boolean"
-                },
-                "--reportsxunit": {
-                    "default": "ГенераторОтчетаJUnitXML{build/junit.xml};ГенераторОтчетаAllureXML{build/allure.xml}",
-                    "description": "Параметры формирования отчетов в формате вида:\n      ФорматВыводаОтчета{Путь к файлу отчета};ФорматВыводаОтчета{Путь к файлу отчета}...\n      Пример:\tГенераторОтчетаJUnitXML{build/junit.xml};ГенераторОтчетаAllureXML{build/allure.xml}\n      Пример (англоязычный вариант):\tGenerateReportJUnitXML{build/junit.xml};GenerateReportAllureXML{build/allure.xml}",
-                    "id": "/properties/xunit/properties/--reportsxunit",
-                    "title": "The --reportsxunit Schema",
-                    "type": "string"
-                },
-                "--xddConfig": {
-                    "default": "tools/TREND.json",
-                    "description": "Путь к конфигурационному файлу xUnitFor1C.",
-                    "id": "/properties/xunit/properties/--xddConfig",
-                    "title": "The --xddconfig Schema",
-                    "type": "string"
-                },
-                "--xddExitCodePath": {
-                    "default": "build/xddExitCodePath.txt",
-                    "description": "путь к текстовому файлу, обозначающему статус выполнению.\n    Внутри файла строка-значение 0 (тесты пройдены), 1 (тесты не пройдены)",
-                    "id": "/properties/xunit/properties/--xddExitCodePath",
-                    "title": "The --xddexitcodepath Schema",
-                    "type": "string"
-                },
-                "testsPath": {
-                    "default": "./tools/tests/",
-                    "description": "Путь к каталогу или к файлу с тестами.",
-                    "id": "/properties/xunit/properties/testsPath",
-                    "title": "The Testspath Schema",
-                    "type": "string"
-                }
-				}
+        "xunit":{
+		"testsPath": "E:/Jenkins/workspace/Test1/tools",
+		"--xddConfig": "./tools/TREND.json",
+		"--xddExitCodePath": "./build/xddExitCodePath.txt",
+		"--pathxunit": "./tools/add/xddTestRunner.epf"
+    }
 				
-				}
-				}
+}
+				
