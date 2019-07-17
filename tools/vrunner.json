@@ -15,7 +15,7 @@
     },
         "xunit":{
 		"testsPath": "E:/Jenkins/workspace/Test1/tools",
-		"--xddConfig": "./tools/TREND.json",
+		"--xddConfig": "./tools/ТРЕНДНастройки.json",
 		"--xddExitCodePath": "./build/xddExitCodePath.txt",
 		"--pathxunit": "./tools/add/xddTestRunner.epf"
     }
