@@ -183,7 +183,7 @@ pipeline {
                     return
                 }
 
-                dir ('build/out/allure') {
+                dir ('build/allure') {
                     writeFile file:'environment.properties', text:"Build=${env.BUILD_URL}"
                 }
 
