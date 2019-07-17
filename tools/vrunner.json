@@ -17,7 +17,8 @@
 		"testsPath": "E:/Jenkins/workspace/Test1/tools/tests",
 		"--xddConfig": "./tools/TREND.json",
 		"--xddExitCodePath": "./build/xddExitCodePath.txt",
-		"--pathxunit": "./tools/add/xddTestRunner.epf"
+		"--pathxunit": "./tools/add/xddTestRunner.epf",
+		"--reportsxunit": "ГенераторОтчетаJUnitXML{build/junit.xml};ГенераторОтчетаAllureXMLВерсия2{build/allure/allure.xml}"
     }
 				
 }
