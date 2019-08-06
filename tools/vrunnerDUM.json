@@ -13,7 +13,7 @@
         "--additional": "/DisplayAllFunctions /L ru"
     },
         "xunit":{
-		"testsPath": "C:/Program Files (x86)/Jenkins/workspace/Test1/tools/tests",
+		"testsPath": "C:/Program Files (x86)/Jenkins/workspace/DUM_Test1/tools/tests",
 		"--xddConfig": "./tools/DUMFull.json",
 		"--xddExitCodePath": "./build/xddExitCodePath.txt",
 		"--pathxunit": "./tools/add/xddTestRunner.epf",
