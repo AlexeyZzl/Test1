@@ -14,9 +14,9 @@
     },
         "xunit":{
 		"testsPath": "C:/Program Files (x86)/Jenkins/workspace/DUM_Test1/tools/tests",
-		"--xddConfig": "./tools/DUMFull.json",
-		"--xddExitCodePath": "./build/xddExitCodePath.txt",
-		"--pathxunit": "./tools/add/xddTestRunner.epf",
+		"--xddConfig": "../tools/DUMFull.json",
+		"--xddExitCodePath": "../build/xddExitCodePath.txt",
+		"--pathxunit": "../tools/add/xddTestRunner.epf",
 		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/allure.xml}"
     }
 				
