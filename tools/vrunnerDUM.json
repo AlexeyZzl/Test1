@@ -13,11 +13,11 @@
         "--additional": "/DisplayAllFunctions /L ru"
     },
         "xunit":{
-		"xddRun": "C:/Program Files (x86)/Jenkins/workspace/DUM_Test1/tools/tests",
-		"-ddConfig": "./tools/DUMFull.json",
-		"xddExitCodePath": "./build/xddExitCodePath.txt",
-		"athxunit": "./tools/add/xddTestRunner.epf",
-		"reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/allure.xml}"
+		"testsPath": "C:/Program Files (x86)/Jenkins/workspace/DUM_Test1/tools/tests",
+		"--xddConfig": "./tools/DUMFull.json",
+		"--xddExitCodePath": "./build/xddExitCodePath.txt",
+		"--pathxunit": "./tools/add/xddTestRunner.epf",
+		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/allure.xml}"
     }
 				
 }
