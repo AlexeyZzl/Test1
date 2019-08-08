@@ -36,7 +36,7 @@ pipeline {
         label "${(env.jenkinsAgent == null || env.jenkinsAgent == 'null') ? "master" : env.jenkinsAgent}"
     }
     options {
-        timeout(time: 35, unit: 'MINUTES') 
+        timeout(time: 600, unit: 'MINUTES') 
         buildDiscarder(logRotator(numToKeepStr:'10'))
     }
     stages {
@@ -166,7 +166,7 @@ pipeline {
                             admin1cPwdLine = "--db-pwd ${admin1cPwd}"
                         }
                         // Запускаем ADD тестирование на произвольной базе, сохранившейся в переменной testbaseConnString
-                         returnCode = utils.cmd("runner xunit --settings tools/vrunnerTREND.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${admin1cUsrLine} ${admin1cPwdLine} --pathxunit tools/add/xddTestRunner.epf")
+                         returnCode = utils.cmd("runner xunit --settings tools/vrunnerTREND.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${admin1cUsrLine} ${admin1cPwdLine}")
 
                         if (returnCode != 0) {
                             utils.raiseError("Возникла ошибка при запуске ADD на сервере ${server1c} и базе ${testbase}")

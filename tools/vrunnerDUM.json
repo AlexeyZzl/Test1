@@ -4,7 +4,8 @@
         "--db-user": "",
         "--db-pwd": "",
         "--ordinaryapp": "1",
-        "--v8version": ""
+        "--v8version": "",
+	"--additional": "/ClearCache"
     },
     "vanessa": {
         "--vanessasettings": "tools/VBParams.json",
