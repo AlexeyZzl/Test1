@@ -48,7 +48,7 @@ pipeline {
                     script {
                         templatebasesList = utils.lineToArray(templatebases.toLowerCase())
                         //storages1cPathList = utils.lineToArray(storages1cPath.toLowerCase())
-                        storages1cPathList = storages1cPath.toLowerCase
+                        storages1cPathList = storages1cPath
 
                         if (storages1cPathList.size() != 0) {
                             assert storages1cPathList.size() == templatebasesList.size()
