@@ -167,6 +167,15 @@ pipeline {
                         if (admin1cPwd != null && !admin1cPwd.isEmpty()) {
                             admin1cPwdLine = "--db-pwd ${admin1cPwd}"
                         }
+                        test1cUsrLine = ""
+                        if (test1cUser != null && !test1cUser.isEmpty()) {
+                            test1cUsrLine = "--db-user ${test1cUser}"
+                        }
+
+                        test1cPwdLine = ""
+                        if (test1cPwd != null && !test1cPwd.isEmpty()) {
+                            test1cPwdLine = "--db-pwd ${test1cPwd}"
+                        }
                         // Запускаем ADD тестирование на произвольной базе, сохранившейся в переменной testbaseConnString
                          returnCode = utils.cmd("runner xunit --settings tools/vrunnerDUM.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${test1cUsrLine} ${test1cPwdLine}")
 
