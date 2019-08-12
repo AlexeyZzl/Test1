@@ -122,16 +122,16 @@ pipeline {
                                 storageUser, 
                                 storagePwd, 
                                 testbaseConnString, 
-                                test1cUser, 
-                                test1cPwd
+                                admin1cUser, 
+                                admin1cPwd
                             )
-//                            // 6. Запускаем внешнюю обработку 1С, которая очищает базу от всплывающего окна с тем, что база перемещена при старте 1С
-//                            runHandlers1cTasks["runHandlers1cTask_${testbase}"] = runHandlers1cTask(
-//                                testbase, 
-//                                admin1cUser, 
-//                                admin1cPwd,
-//                               testbaseConnString
-//                           )
+                            // 6. Запускаем внешнюю обработку 1С, которая очищает базу от всплывающего окна с тем, что база перемещена при старте 1С
+                            runHandlers1cTasks["runHandlers1cTask_${testbase}"] = runHandlers1cTask(
+                                testbase, 
+                                admin1cUser, 
+                                admin1cPwd,
+                               testbaseConnString
+                           )
                        }
 
                         parallel dropDbTasks
@@ -168,7 +168,7 @@ pipeline {
                             admin1cPwdLine = "--db-pwd ${admin1cPwd}"
                         }
                         // Запускаем ADD тестирование на произвольной базе, сохранившейся в переменной testbaseConnString
-                         returnCode = utils.cmd("runner xunit --settings tools/vrunnerDUM.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${admin1cUsrLine} ${admin1cPwdLine}")
+                         returnCode = utils.cmd("runner xunit --settings tools/vrunnerDUM.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${test1cUsrLine} ${test1cPwdLine}")
 
                         if (returnCode != 0) {
                             utils.raiseError("Возникла ошибка при запуске ADD на сервере ${server1c} и базе ${testbase}")
