@@ -45,7 +45,7 @@ pipeline {
         stage("Подготовка") {
             steps {
                 timestamps {
-//                    script {
+                    script {
 //                        templatebasesList = utils.lineToArray(templatebases.toLowerCase())
 //                        storages1cPathList = utils.lineToArray(storages1cPath.toLowerCase())
                         
