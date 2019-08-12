@@ -38,7 +38,7 @@ pipeline {
         label "${(env.jenkinsAgent == null || env.jenkinsAgent == 'null') ? "master" : env.jenkinsAgent}"
     }
     options {
-        timeout(time: 600, unit: 'MINUTES') 
+        timeout(time: 60, unit: 'MINUTES') 
         buildDiscarder(logRotator(numToKeepStr:'10'))
     }
     stages {
