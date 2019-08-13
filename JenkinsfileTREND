@@ -193,6 +193,7 @@ pipeline {
             }
         }
     }
+}
 		stage("Тестирование ADD") {
             steps {
                 timestamps {
