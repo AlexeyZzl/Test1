@@ -169,7 +169,7 @@ pipeline {
                         }
                         // Запускаем ADD тестирование на произвольной базе, сохранившейся в переменной testbaseConnString
                         
-						returnCode = utils.cmd("runner syntax-check --settings tools/vrunnerTREND.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${test1cUsrLine} ${test1cPwdLine}")
+						returnCode = utils.cmd("runner syntax-check --settings tools/vrunnerTREND.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${admin1cUsrLine} ${admin1cPwdLine}")
 
                         if (returnCode != 0) {
                             utils.raiseError("Возникла ошибка при проверке конфигурации на сервере ${server1c} и базе ${testbase}")
