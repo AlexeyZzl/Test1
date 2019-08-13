@@ -21,7 +21,7 @@
 		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/allure.xml}"
     },
 	"syntax-check": {
-		"--allure-results2": "./build/allure/allure.xml",
+		"--allure-results2": "./build/allure/yntax-check.xml",
 		"--groupbymetadata":true,
 		"--mode" : [
 			"-ConfigLogIntegrity"
