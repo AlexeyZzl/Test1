@@ -18,10 +18,10 @@
 		"--xddConfig": "./tools/TREND.json",
 		"--xddExitCodePath": "./build/xddExitCodePath.txt",
 		"--pathxunit": "./tools/add/xddTestRunner.epf",
-		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure}"
+		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/allure1.xml}"
     },
 	"syntax-check": {
-		"--allure-results2": "./build/allure",
+		"--allure-results2": "./build/allure/allure2.xml",
 		"--groupbymetadata":true,
 		"--exception-file": "./tools/SyntaxCheck.json",
 		"--mode" : [
