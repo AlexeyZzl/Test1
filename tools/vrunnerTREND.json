@@ -25,15 +25,7 @@
 		"--groupbymetadata":true,
 		"--mode" : [
 			"-ConfigLogIntegrity"
-			, "-IncorrectReferences"
-			, "-ThinClient"
-			, "-WebClient"
-			, "-Server"
-			, "-ExternalConnection"
-			, "-ExternalConnectionServer"
-			, "-ThickClientManagedApplication"
-			, "-ThickClientServerManagedApplication"
-		]
+			]
 	}
 				
 }
