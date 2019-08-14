@@ -198,11 +198,17 @@ pipeline {
                     return
                 }
 
-                dir ('build/allure') {
+                dir ('build/allure/xunit') {
                     writeFile file:'environment.properties', text:"Build=${env.BUILD_URL}"
                 }
 
-                allure includeProperties: false, jdk: '', results: [[path: 'build/allure']]
+                allure includeProperties: false, jdk: '', results: [[path: 'build/allure/xunit']]
+				
+				dir ('build/allure/syntaxcheck') {
+                    writeFile file:'environment.properties', text:"Build=${env.BUILD_URL}"
+                }
+
+                allure includeProperties: false, jdk: '', results: [[path: 'build/allure/syntaxcheck']]
 
             }
         }
