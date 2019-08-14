@@ -179,7 +179,6 @@ pipeline {
             }
         }
 		
-		
 		stage("Тестирование ADD") {
             steps {
                 timestamps {
@@ -235,7 +234,8 @@ pipeline {
                 }
 
                 allure includeProperties: false, jdk: '', results: [[path: 'build/allure']]
-			}
+
+            }
         }
     }
 }
