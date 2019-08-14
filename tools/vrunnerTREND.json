@@ -18,10 +18,10 @@
 		"--xddConfig": "./tools/DUMFull.json",
 		"--xddExitCodePath": "./build/xddExitCodePath.txt",
 		"--pathxunit": "./tools/add/xddTestRunner.epf",
-		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/xunit}"
+		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure}"
     },
 	"syntax-check": {
-		"--allure-results2": "./build/allure/syntaxcheck",
+		"--allure-results2": "./build/allure",
 		"--groupbymetadata":true,
 		"--mode" : [
 			"-ConfigLogIntegrity"
