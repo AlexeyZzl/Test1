@@ -25,9 +25,7 @@
 		"--groupbymetadata":true,
 		"--exception-file": "./tools/SyntaxCheck.json",
 		"--mode" : [
-			"-ConfigLogIntegrity"
-			, "-IncorrectReferences"
-			, "-ThinClient"
+			"-ThinClient"
 			, "-WebClient"
 			, "-Server"
 			, "-ExternalConnection"
