@@ -178,6 +178,18 @@ pipeline {
                 }
             }
         }
+		post {
+        always {
+            script {
+                
+                dir ('build/allure') {
+                    writeFile file:'environment.properties', text:"Build=${env.BUILD_URL}"
+                }
+
+                allure includeProperties: false, jdk: '', results: [[path: 'build/allure']]
+				}
+        }
+    }
 		
 		stage("Тестирование ADD") {
             steps {
@@ -233,9 +245,8 @@ pipeline {
                     writeFile file:'environment.properties', text:"Build=${env.BUILD_URL}"
                 }
 
-                allure includeProperties: false, jdk: '', results: [[path: 'build/allure/xunit']]
-				allure includeProperties: false, jdk: '', results: [[path: 'build/allure/syntaxcheck']]
-            }
+                allure includeProperties: false, jdk: '', results: [[path: 'build/allure']]
+				}
         }
     }
 }
