@@ -22,7 +22,7 @@
     },
 	"syntax-check": {
 		"--allure-results2": "./build/allure",
-		"--exception-file": "./tools/SyntaxCheck.json"
+		"--exception-file": "./tools/SyntaxCheck.json",
 		"--groupbymetadata":true,
 		"--mode" : [
 			"-ConfigLogIntegrity"
