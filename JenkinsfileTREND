@@ -178,7 +178,7 @@ pipeline {
                             test1cPwdLine = "--db-pwd ${test1cPwd}"
                         }
 						// Запускаем проверку конфигурации на произвольной базе, сохранившейся в переменной testbaseConnString
-                        //returnCode = utils.cmd("runner syntax-check --settings tools/vrunnerTREND.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${admin1cUsrLine} ${admin1cPwdLine}")
+                        returnCode = utils.cmd("runner syntax-check --settings tools/vrunnerTREND.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${admin1cUsrLine} ${admin1cPwdLine}")
 						
                         // Запускаем ADD тестирование на произвольной базе, сохранившейся в переменной testbaseConnString
                         returnCode = utils.cmd("runner xunit --settings tools/vrunnerTREND.json ${platform1cLine} --ibconnection \"${testbaseConnString}\" ${test1cUsrLine} ${test1cPwdLine}")
