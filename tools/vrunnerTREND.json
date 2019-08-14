@@ -22,8 +22,8 @@
     },
 	"syntax-check": {
 		"--allure-results2": "./build/allure",
-		"--exception-file": "./tools/SyntaxCheck.json",
 		"--groupbymetadata":true,
+		"--exception-file": "./tools/SyntaxCheck.json",
 		"--mode" : [
 			"-ConfigLogIntegrity"
 			, "-IncorrectReferences"
