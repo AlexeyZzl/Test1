@@ -1,4 +1,3 @@
-    
 {
     "$schema": "https://raw.githubusercontent.com/silverbulleters/vanessa-runner/develop/vanessa-runner-schema.json",
     "default": {
@@ -16,11 +15,17 @@
     },
         "xunit":{
 		"testsPath": "C:/Program Files (x86)/Jenkins/workspace/TREND_Test1/tools/tests",
-		"--xddConfig": "./tools/TREND.json",
+		"--xddConfig": "./tools/DUMFull.json",
 		"--xddExitCodePath": "./build/xddExitCodePath.txt",
 		"--pathxunit": "./tools/add/xddTestRunner.epf",
-		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/allure.xml}"
-    }
+		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/xunit}"
+    },
+	"syntax-check": {
+		"--allure-results2": "./build/allure/syntaxcheck",
+		"--groupbymetadata":true,
+		"--mode" : [
+			"-ConfigLogIntegrity"
+		]
+	}
 				
 }
-				
