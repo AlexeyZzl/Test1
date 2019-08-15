@@ -18,7 +18,6 @@
 		"--xddConfig": "./tools/TREND.json",
 		"--xddExitCodePath": "./build/xddExitCodePath.txt",
 		"--pathxunit": "./tools/add/xddTestRunner.epf",
-<<<<<<< HEAD
 		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/add}"
     },
 	"syntax-check": {
@@ -35,9 +34,5 @@
 			, "-ThickClientServerManagedApplication"
 		]
 	}
-=======
-		"--reportsxunit": "ГенераторОтчетаAllureXMLВерсия2{build/allure/allure1.xml}"
-    }
->>>>>>> 1519360a4593013e69d035acb5a19535b37ce1dc
 				
 }
