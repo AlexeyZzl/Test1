@@ -233,8 +233,8 @@ pipeline {
                 dir ('build/allure') {
                     writeFile file:'environment.properties', text:"Build=${env.BUILD_URL}"
                 }
-                allure includeProperties: false, jdk: '', report: 'build/allure/add', results: [[path: 'build/allure/add']]
-				allure includeProperties: false, jdk: '', report: 'build/allure/syntax', results: [[path: 'build/allure/syntax']]
+                allure includeProperties: false, jdk: '', report: 'add', results: [[path: 'build/allure/add']]
+				allure includeProperties: false, jdk: '', report: 'syntax', results: [[path: 'build/allure/syntax']]
                 }
         }
     }
