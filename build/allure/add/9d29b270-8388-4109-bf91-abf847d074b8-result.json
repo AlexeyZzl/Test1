@@ -1,0 +1,40 @@
+{
+"uuid": "5f98816a-664e-46d2-b118-ee7e093fe235",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Списки : Документ.НачислениеЗаработнойПлаты.Форма.ФормаВыбора",
+"name": "Списки : Документ.НачислениеЗаработнойПлаты.Форма.ФормаВыбора",
+"fullName": "",
+"start": 1565859772063,
+"stop": 1565859772267,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

@@ -1,0 +1,19 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://sborretail:8080/",
+  "buildOrder" : 103,
+  "buildName" : "TREND_Test1 #103",
+  "buildUrl" : "http://sborretail:8080/job/TREND_Test1/103/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://sborretail:8080/job/TREND_Test1/103/allure"
+}, {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://sborretail:8080/",
+  "buildOrder" : 103,
+  "buildName" : "TREND_Test1 #103",
+  "buildUrl" : "http://sborretail:8080/job/TREND_Test1/103/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://sborretail:8080/job/TREND_Test1/103/allure"
+} ]

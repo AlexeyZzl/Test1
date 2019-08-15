@@ -1,0 +1,40 @@
+{
+"uuid": "d0b15b6e-81ba-4ad3-8010-80a4cd5313e3",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Новые : Документ.НачислениеЗаработнойПлаты.Форма.ФормаДокумента",
+"name": "Новые : Документ.НачислениеЗаработнойПлаты.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859771246,
+"stop": 1565859771563,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуНовогоДокумента"
+}

@@ -1,0 +1,40 @@
+{
+"uuid": "27473ff5-5ab9-4ddf-becf-43f236bc798c",
+"historyId": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests.ПроверкаЧтенияНеАдминистраторами.ПланОбмена.ОбновлениеИнформационнойБазы: Проверка доступа на Чтение Не-Администраторами",
+"name": "ПланОбмена.ОбновлениеИнформационнойБазы: Проверка доступа на Чтение Не-Администраторами",
+"fullName": "",
+"start": 1565860149623,
+"stop": 1565860149632,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "{ВнешняяОбработка.УтвержденияBDD.МодульОбъекта(293)}: [Failed] Ожидали, что проверяемое значение (Ложь) является ИСТИНОЙ.\nПланОбмена.ОбновлениеИнформационнойБазы недоступно для чтения ролями без привилегий\n\u0009ВызватьИсключение Префикс + \" \" + СообщениеОшибки;",
+"trace": ""
+},
+"status": "broken",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "ПроверкаЧтенияНеАдминистраторами"
+},
+{
+"name": "feature",
+"value": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+},
+{
+"name": "package",
+"value": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestReadNotAdmin.epf"
+},
+{
+"name": "host",
+"value": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ПроверитьНеАдминистраторскиеПраваНаЧтение"
+}

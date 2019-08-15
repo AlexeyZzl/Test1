@@ -1,0 +1,40 @@
+{
+"uuid": "2c203075-ee79-490a-bc86-4854a3acc46d",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Новые : Справочник.Меркурий_ТипыДокументов.Форма.ФормаЭлемента",
+"name": "Новые : Справочник.Меркурий_ТипыДокументов.Форма.ФормаЭлемента",
+"fullName": "",
+"start": 1565859651899,
+"stop": 1565859652055,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуНовогоЭлементаСправочника"
+}

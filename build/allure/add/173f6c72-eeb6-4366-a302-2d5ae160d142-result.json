@@ -1,0 +1,40 @@
+{
+"uuid": "c91562bc-f555-482e-a483-f6a05fe5ae2e",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Новые : Документ.ПлатежноеПоручениеВходящее.Форма.ФормаДокумента",
+"name": "Новые : Документ.ПлатежноеПоручениеВходящее.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859789513,
+"stop": 1565859789935,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуНовогоДокумента"
+}

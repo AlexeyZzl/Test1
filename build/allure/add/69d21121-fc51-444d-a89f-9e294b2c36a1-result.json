@@ -1,0 +1,40 @@
+{
+"uuid": "06b5f090-da8f-45fd-a4b8-83e079f0ace2",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Существующие : Документ.ЕГАИС_АктФиксацииМарок.Форма.ФормаДокумента",
+"name": "Существующие : Документ.ЕГАИС_АктФиксацииМарок.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859751956,
+"stop": 1565859752253,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаДокумента"
+}

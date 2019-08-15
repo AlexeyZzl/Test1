@@ -1,0 +1,40 @@
+{
+"uuid": "02cdfcc9-1714-4b49-a67c-e1f2b6204e83",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Существующие : Справочник.ВидыПодарочныхСертификатов.Форма.ФормаГруппы",
+"name": "Существующие : Справочник.ВидыПодарочныхСертификатов.Форма.ФормаГруппы",
+"fullName": "",
+"start": 1565859606529,
+"stop": 1565859606654,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаСправочника"
+}

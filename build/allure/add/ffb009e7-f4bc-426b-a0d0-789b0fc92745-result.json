@@ -1,0 +1,40 @@
+{
+"uuid": "db9763ab-6e99-4f10-a538-eef06e65788a",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Списки : Справочник.СтатьиДвиженияДенежныхСредств.Форма.ФормаВыбора",
+"name": "Списки : Справочник.СтатьиДвиженияДенежныхСредств.Форма.ФормаВыбора",
+"fullName": "",
+"start": 1565859723072,
+"stop": 1565859723275,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

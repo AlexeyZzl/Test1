@@ -1,0 +1,40 @@
+{
+"uuid": "4e7253e1-cd45-4a41-aa43-67a35fa60f45",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Существующие : Справочник.ПечатныеФормы.Форма.ФормаЭлемента",
+"name": "Существующие : Справочник.ПечатныеФормы.Форма.ФормаЭлемента",
+"fullName": "",
+"start": 1565859701129,
+"stop": 1565859701286,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаСправочника"
+}

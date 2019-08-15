@@ -1,0 +1,40 @@
+{
+"uuid": "825587c9-e7a2-486d-ab36-56b6b8922856",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Новые : Справочник.МаркетинговыеАкции.Форма.ФормаГруппы",
+"name": "Новые : Справочник.МаркетинговыеАкции.Форма.ФормаГруппы",
+"fullName": "",
+"start": 1565859637415,
+"stop": 1565859637571,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуНовогоЭлементаСправочника"
+}

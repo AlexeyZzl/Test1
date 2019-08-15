@@ -1,0 +1,40 @@
+{
+"uuid": "f4afafe9-f4ae-41c3-86ea-6605f2aadfed",
+"historyId": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests.ПроверкаЧтенияНеАдминистраторами.Справочник.РабочиеМеста: Проверка доступа на Чтение Не-Администраторами",
+"name": "Справочник.РабочиеМеста: Проверка доступа на Чтение Не-Администраторами",
+"fullName": "",
+"start": 1565860058262,
+"stop": 1565860058266,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "ПроверкаЧтенияНеАдминистраторами"
+},
+{
+"name": "feature",
+"value": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+},
+{
+"name": "package",
+"value": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestReadNotAdmin.epf"
+},
+{
+"name": "host",
+"value": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ПроверитьНеАдминистраторскиеПраваНаЧтение"
+}

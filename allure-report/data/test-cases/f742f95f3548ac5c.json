@@ -1,0 +1,48 @@
+{
+  "uid" : "f742f95f3548ac5c",
+  "name" : "Существующие : Справочник.СоглашенияОбИспользованииЭД.Форма.ФормаЭлемента",
+  "fullName" : "",
+  "historyId" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Существующие : Справочник.СоглашенияОбИспользованииЭД.Форма.ФормаЭлемента",
+  "time" : {
+    "start" : 1565859718291,
+    "stop" : 1565859718603,
+    "duration" : 312
+  },
+  "description" : "ТестДолжен_ОткрытьФормуСуществующегоЭлементаСправочника",
+  "descriptionHtml" : "<p>ТестДолжен_ОткрытьФормуСуществующегоЭлементаСправочника</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Справочники"
+  }, {
+    "name" : "feature",
+    "value" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+  }, {
+    "name" : "package",
+    "value" : "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+  }, {
+    "name" : "host",
+    "value" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f742f95f3548ac5c.json",
+  "parameterValues" : [ ]
+}

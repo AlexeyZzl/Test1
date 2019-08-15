@@ -1,0 +1,40 @@
+{
+"uuid": "2f817168-2b48-4c32-af7b-76a0d781c4b7",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Списки : Справочник.ПравилаОкругленияЦен.Форма.ФормаСписка",
+"name": "Списки : Справочник.ПравилаОкругленияЦен.Форма.ФормаСписка",
+"fullName": "",
+"start": 1565859705015,
+"stop": 1565859705187,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

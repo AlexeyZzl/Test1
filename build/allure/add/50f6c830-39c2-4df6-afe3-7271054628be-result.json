@@ -1,0 +1,40 @@
+{
+"uuid": "b1adeaf9-74f4-4124-bf9d-2ce2a9192c8c",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Существующие : Документ.Инвентаризация.Форма.ФормаДокумента",
+"name": "Существующие : Документ.Инвентаризация.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859762087,
+"stop": 1565859762431,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаДокумента"
+}

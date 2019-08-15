@@ -1,0 +1,40 @@
+{
+"uuid": "a97b3288-271c-4c2f-a3c7-ebc23adc6e33",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Отчеты.Отчет.Задачи.Форма",
+"name": "Отчет.Задачи.Форма",
+"fullName": "",
+"start": 1565859862054,
+"stop": 1565859862639,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Отчеты"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

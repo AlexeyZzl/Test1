@@ -1,0 +1,40 @@
+{
+"uuid": "b6cce0af-144f-444c-8f81-fbb6342081a1",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Существующие : Справочник.АссортиментныеГруппы.Форма.ФормаЭлемента",
+"name": "Существующие : Справочник.АссортиментныеГруппы.Форма.ФормаЭлемента",
+"fullName": "",
+"start": 1565859591920,
+"stop": 1565859592029,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаСправочника"
+}

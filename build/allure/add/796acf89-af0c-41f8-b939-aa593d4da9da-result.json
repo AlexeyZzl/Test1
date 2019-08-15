@@ -1,0 +1,40 @@
+{
+"uuid": "f35a4d96-8a74-41a2-bc80-653bf24dc7b1",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Списки : Справочник.Меркурий_ТипыХозяйствующихСубъектов.Форма.ФормаВыбора",
+"name": "Списки : Справочник.Меркурий_ТипыХозяйствующихСубъектов.Форма.ФормаВыбора",
+"fullName": "",
+"start": 1565859654274,
+"stop": 1565859654445,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

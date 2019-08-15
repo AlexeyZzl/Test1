@@ -1,0 +1,40 @@
+{
+"uuid": "85aab27f-aaf3-4d3a-aa2f-b18975e142a4",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Существующие : Справочник.ШаблоныЦенниковИЭтикеток.Форма.ФормаГруппы",
+"name": "Существующие : Справочник.ШаблоныЦенниковИЭтикеток.Форма.ФормаГруппы",
+"fullName": "",
+"start": 1565859734603,
+"stop": 1565859734790,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаСправочника"
+}

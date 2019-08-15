@@ -1,0 +1,52 @@
+{
+  "uid" : "8895343d601ddb5d",
+  "name" : "Константа.СинхронизироватьФайлы: Проверка доступа на Чтение Не-Администраторами",
+  "fullName" : "",
+  "historyId" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests.ПроверкаЧтенияНеАдминистраторами.Константа.СинхронизироватьФайлы: Проверка доступа на Чтение Не-Администраторами",
+  "time" : {
+    "start" : 1565860010178,
+    "stop" : 1565860010193,
+    "duration" : 15
+  },
+  "description" : "Тест_ПроверитьНеАдминистраторскиеПраваНаЧтение",
+  "descriptionHtml" : "<p>Тест_ПроверитьНеАдминистраторскиеПраваНаЧтение</p>\n",
+  "status" : "broken",
+  "statusMessage" : "{ВнешняяОбработка.УтвержденияBDD.МодульОбъекта(293)}: [Failed] Ожидали, что проверяемое значение (Ложь) является ИСТИНОЙ.\nКонстанта.СинхронизироватьФайлы недоступно для чтения ролями без привилегий\n\tВызватьИсключение Префикс + \" \" + СообщениеОшибки;",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "ПроверкаЧтенияНеАдминистраторами"
+  }, {
+    "name" : "feature",
+    "value" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestReadNotAdmin.epf"
+  }, {
+    "name" : "host",
+    "value" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8895343d601ddb5d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,40 @@
+{
+"uuid": "43ccf35d-2200-4664-b110-51d4eda4e438",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Существующие : Справочник.КлассификаторыFrontol.Форма.ФормаГруппы",
+"name": "Существующие : Справочник.КлассификаторыFrontol.Форма.ФормаГруппы",
+"fullName": "",
+"start": 1565859630234,
+"stop": 1565859630539,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаСправочника"
+}

@@ -1,0 +1,40 @@
+{
+"uuid": "5876a369-d8ad-46ef-a05c-4826d5707079",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Новые : Документ.СообщениеОбменСБанками.Форма.ФормаДокумента",
+"name": "Новые : Документ.СообщениеОбменСБанками.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859804479,
+"stop": 1565859804660,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуНовогоДокумента"
+}

@@ -1,0 +1,40 @@
+{
+"uuid": "831cac93-fd15-4180-a070-93487be96a63",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Списки : Документ.ПересчетТоваров.Форма.ФормаВыбора",
+"name": "Списки : Документ.ПересчетТоваров.Форма.ФормаВыбора",
+"fullName": "",
+"start": 1565859787263,
+"stop": 1565859787497,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

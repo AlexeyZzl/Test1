@@ -1,0 +1,40 @@
+{
+"uuid": "f023865d-411a-41d7-bf6b-6af39fe0cce7",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Существующие : Документ.ДатаМобайл_АктПостановкиНаБаланс.Форма.ФормаДокумента",
+"name": "Существующие : Документ.ДатаМобайл_АктПостановкиНаБаланс.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859748248,
+"stop": 1565859748418,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаДокумента"
+}

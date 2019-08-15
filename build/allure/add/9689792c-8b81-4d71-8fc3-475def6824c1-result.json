@@ -1,0 +1,40 @@
+{
+"uuid": "dc804cbf-6260-4b94-9db2-13a9ecdec133",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Обработки.Обработка.УправлениеВесами.Форма.Форма",
+"name": "Обработка.УправлениеВесами.Форма.Форма",
+"fullName": "",
+"start": 1565859842544,
+"stop": 1565859842799,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Обработки"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

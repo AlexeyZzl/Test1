@@ -1,0 +1,40 @@
+{
+"uuid": "e899da8d-2ddd-4973-8a9b-d651d31225f7",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Отчеты.Отчет.ПрогрессОтложенногоОбновления.Форма",
+"name": "Отчет.ПрогрессОтложенногоОбновления.Форма",
+"fullName": "",
+"start": 1565859878209,
+"stop": 1565859878479,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Отчеты"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

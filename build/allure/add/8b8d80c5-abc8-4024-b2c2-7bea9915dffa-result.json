@@ -1,0 +1,40 @@
+{
+"uuid": "f66211b6-b08b-40e0-9a12-92a732777f97",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Списки : Документ.ПакетОбменСБанками.Форма.ФормаСписка",
+"name": "Списки : Документ.ПакетОбменСБанками.Форма.ФормаСписка",
+"fullName": "",
+"start": 1565859777341,
+"stop": 1565859777545,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

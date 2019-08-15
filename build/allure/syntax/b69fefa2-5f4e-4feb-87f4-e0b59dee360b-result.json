@@ -1,0 +1,30 @@
+{
+    "uuid": "b69fefa2-5f4e-4feb-87f4-e0b59dee360b",
+    "historyId": "Соединение. с хранилищем конфигурации не установлено",
+    "name": "Соединение. с хранилищем конфигурации не установлено",
+    "fullName": "Соединение. с хранилищем конфигурации не установлено",
+    "start": 63701466857000,
+    "stop": 63701467152000,
+    "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+    },
+    "status": "skipped",
+    "stage": "finished",
+    "steps": [],
+    "parameters": [],
+    "labels": [
+        {
+            "name": "package",
+            "value": "Соединение"
+        },
+        {
+            "name": "story",
+            "value": "с хранилищем конфигурации не установлено"
+        }
+    ],
+    "links": [],
+    "attachments": [],
+    "description": "с хранилищем конфигурации не установлено"
+}

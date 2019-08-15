@@ -1,0 +1,40 @@
+{
+"uuid": "ddf7171b-1dd0-454d-a440-4d32e7910e7a",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Новые : Документ.Инвентаризация.Форма.ФормаДокумента",
+"name": "Новые : Документ.Инвентаризация.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859761477,
+"stop": 1565859762087,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуНовогоДокумента"
+}

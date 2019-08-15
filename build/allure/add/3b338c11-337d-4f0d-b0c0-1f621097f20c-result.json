@@ -1,0 +1,40 @@
+{
+"uuid": "ad09aaec-b571-46cb-8109-1fb0955a80c9",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Списки : Документ.Меркурий_ПроизводственныйДокумент.Форма.ФормаСписка",
+"name": "Списки : Документ.Меркурий_ПроизводственныйДокумент.Форма.ФормаСписка",
+"fullName": "",
+"start": 1565859770152,
+"stop": 1565859770340,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

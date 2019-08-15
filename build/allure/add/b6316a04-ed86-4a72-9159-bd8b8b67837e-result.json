@@ -1,0 +1,40 @@
+{
+"uuid": "c8d541ce-d634-4d23-bff9-74954642f5f4",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Отчеты.Отчет.СтатистикаПоСуммамЧеков.Форма",
+"name": "Отчет.СтатистикаПоСуммамЧеков.Форма",
+"fullName": "",
+"start": 1565859886775,
+"stop": 1565859887167,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Отчеты"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

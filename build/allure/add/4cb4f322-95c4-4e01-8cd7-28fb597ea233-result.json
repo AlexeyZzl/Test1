@@ -1,0 +1,40 @@
+{
+"uuid": "06ea38b1-34fb-45f3-9b03-5d4b05bded8a",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Обработки.Обработка.ОбработкаРасчетФинансовогоРезультата.Форма.Форма",
+"name": "Обработка.ОбработкаРасчетФинансовогоРезультата.Форма.Форма",
+"fullName": "",
+"start": 1565859831046,
+"stop": 1565859831323,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Обработки"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

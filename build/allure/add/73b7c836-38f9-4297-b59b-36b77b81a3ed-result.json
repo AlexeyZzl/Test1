@@ -1,0 +1,40 @@
+{
+"uuid": "3edde7fb-26ab-49bc-9e52-cba5f404c467",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Существующие : Справочник.ДатаМобайл_ШаблоныДокументов.Форма.ФормаЭлементаУправляемая",
+"name": "Существующие : Справочник.ДатаМобайл_ШаблоныДокументов.Форма.ФормаЭлементаУправляемая",
+"fullName": "",
+"start": 1565859615825,
+"stop": 1565859616497,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаСправочника"
+}

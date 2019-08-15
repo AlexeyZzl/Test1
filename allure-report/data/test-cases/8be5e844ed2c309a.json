@@ -1,0 +1,48 @@
+{
+  "uid" : "8be5e844ed2c309a",
+  "name" : "Документ.ЕГАИС_АктСписания: Проверка доступа на Чтение Не-Администраторами",
+  "fullName" : "",
+  "historyId" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests.ПроверкаЧтенияНеАдминистраторами.Документ.ЕГАИС_АктСписания: Проверка доступа на Чтение Не-Администраторами",
+  "time" : {
+    "start" : 1565860198993,
+    "stop" : 1565860198998,
+    "duration" : 5
+  },
+  "description" : "Тест_ПроверитьНеАдминистраторскиеПраваНаЧтение",
+  "descriptionHtml" : "<p>Тест_ПроверитьНеАдминистраторскиеПраваНаЧтение</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "ПроверкаЧтенияНеАдминистраторами"
+  }, {
+    "name" : "feature",
+    "value" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestReadNotAdmin.epf"
+  }, {
+    "name" : "host",
+    "value" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8be5e844ed2c309a.json",
+  "parameterValues" : [ ]
+}

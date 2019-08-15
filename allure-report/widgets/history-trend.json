@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 103,
+  "reportUrl" : "http://sborretail:8080/job/TREND_Test1/103/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 70,
+    "skipped" : 2,
+    "passed" : 1653,
+    "unknown" : 0,
+    "total" : 1725
+  }
+} ]

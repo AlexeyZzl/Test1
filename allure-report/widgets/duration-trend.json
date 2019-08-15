@@ -1,0 +1,8 @@
+[ {
+  "buildOrder" : 103,
+  "reportUrl" : "http://sborretail:8080/job/TREND_Test1/103/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 62135607560377
+  }
+} ]

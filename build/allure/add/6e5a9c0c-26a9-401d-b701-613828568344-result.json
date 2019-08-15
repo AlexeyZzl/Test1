@@ -1,0 +1,40 @@
+{
+"uuid": "6b37d274-5f73-4479-84f0-ce51b44f6ccc",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Обработки.Обработка.ПереходНаВерсию2.Форма.Форма",
+"name": "Обработка.ПереходНаВерсию2.Форма.Форма",
+"fullName": "",
+"start": 1565859832405,
+"stop": 1565859832570,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Обработки"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

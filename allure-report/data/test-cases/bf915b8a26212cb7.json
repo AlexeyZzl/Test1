@@ -1,0 +1,48 @@
+{
+  "uid" : "bf915b8a26212cb7",
+  "name" : "Новые : Документ.ТТК.Форма.ФормаДокумента",
+  "fullName" : "",
+  "historyId" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Новые : Документ.ТТК.Форма.ФормаДокумента",
+  "time" : {
+    "start" : 1565859808480,
+    "stop" : 1565859808993,
+    "duration" : 513
+  },
+  "description" : "ТестДолжен_ОткрытьФормуНовогоДокумента",
+  "descriptionHtml" : "<p>ТестДолжен_ОткрытьФормуНовогоДокумента</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Документы"
+  }, {
+    "name" : "feature",
+    "value" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+  }, {
+    "name" : "package",
+    "value" : "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+  }, {
+    "name" : "host",
+    "value" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf915b8a26212cb7.json",
+  "parameterValues" : [ ]
+}

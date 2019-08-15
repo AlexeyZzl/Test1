@@ -1,0 +1,40 @@
+{
+"uuid": "d57015b7-fd65-4537-b9ca-4bace2b3e5b4",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Отчеты.Отчет.ИспользуемыеВнешниеРесурсы.Форма",
+"name": "Отчет.ИспользуемыеВнешниеРесурсы.Форма",
+"fullName": "",
+"start": 1565859864479,
+"stop": 1565859864710,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Отчеты"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "9b624a04c9e7dbd0f0036177eb59e694",
+    "name" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "9830e2bf5e7e52d37214539ecef47168",
+    "name" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "5ce6ad65b4ee6e970dd3c5d3310f5600",
+    "name" : "с хранилищем конфигурации не установлено",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "37d89570229ee0324ab778f31b1d2041",
+    "name" : "не обнаружено",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

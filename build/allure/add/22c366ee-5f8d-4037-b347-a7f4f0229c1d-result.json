@@ -1,0 +1,40 @@
+{
+"uuid": "3e40d1dc-0cc1-4ff4-9023-e3f48fbd271b",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Обработки.Обработка.ОценкаПроизводительности.Форма.АвтоматическийЭкспортЗамеровПроизводительности",
+"name": "Обработка.ОценкаПроизводительности.Форма.АвтоматическийЭкспортЗамеровПроизводительности",
+"fullName": "",
+"start": 1565859831922,
+"stop": 1565859832170,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Обработки"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

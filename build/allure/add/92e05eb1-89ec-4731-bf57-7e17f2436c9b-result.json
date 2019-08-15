@@ -1,0 +1,40 @@
+{
+"uuid": "6e87acf8-4b6c-459e-b07c-2dcf14c97a61",
+"historyId": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests.ПроверкаЧтенияНеАдминистраторами.Константа.НастройкиВходаПользователей: Проверка доступа на Чтение Не-Администраторами",
+"name": "Константа.НастройкиВходаПользователей: Проверка доступа на Чтение Не-Администраторами",
+"fullName": "",
+"start": 1565860289368,
+"stop": 1565860289379,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "{ВнешняяОбработка.УтвержденияBDD.МодульОбъекта(293)}: [Failed] Ожидали, что проверяемое значение (Ложь) является ИСТИНОЙ.\nКонстанта.НастройкиВходаПользователей недоступно для чтения ролями без привилегий\n\u0009ВызватьИсключение Префикс + \" \" + СообщениеОшибки;",
+"trace": ""
+},
+"status": "broken",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "ПроверкаЧтенияНеАдминистраторами"
+},
+{
+"name": "feature",
+"value": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+},
+{
+"name": "package",
+"value": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestReadNotAdmin.epf"
+},
+{
+"name": "host",
+"value": "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ПроверитьНеАдминистраторскиеПраваНаЧтение"
+}

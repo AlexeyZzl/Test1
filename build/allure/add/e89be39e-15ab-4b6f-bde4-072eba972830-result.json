@@ -1,0 +1,40 @@
+{
+"uuid": "b9bcd808-be78-4bdb-8f8b-e138455c53c5",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Новые : Документ.ЕГАИС_ЗапросНечитаемыхМарок.Форма.ФормаДокумента",
+"name": "Новые : Документ.ЕГАИС_ЗапросНечитаемыхМарок.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859752550,
+"stop": 1565859752891,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуНовогоДокумента"
+}

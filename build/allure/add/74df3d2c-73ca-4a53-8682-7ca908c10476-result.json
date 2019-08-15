@@ -1,0 +1,40 @@
+{
+"uuid": "b03bfd46-6a11-40d8-9157-517edb66dcb8",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Справочники.Существующие : Справочник.ПользовательскиеНастройкиЗагрузкиИзExcel.Форма.ФормаГруппы",
+"name": "Существующие : Справочник.ПользовательскиеНастройкиЗагрузкиИзExcel.Форма.ФормаГруппы",
+"fullName": "",
+"start": 1565859704046,
+"stop": 1565859704280,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуСуществующегоЭлементаСправочника"
+}

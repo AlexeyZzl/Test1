@@ -1,0 +1,40 @@
+{
+"uuid": "0c49e7ba-59c4-4dc7-8bc4-b9308ba8b2a8",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Новые : Документ.ПланПоОсновномуПоказателюДеятельности.Форма.ФормаДокумента",
+"name": "Новые : Документ.ПланПоОсновномуПоказателюДеятельности.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859787497,
+"stop": 1565859787794,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуНовогоДокумента"
+}

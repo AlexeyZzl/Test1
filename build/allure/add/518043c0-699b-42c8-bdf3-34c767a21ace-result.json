@@ -1,0 +1,40 @@
+{
+"uuid": "f7847ae2-1f18-472d-a582-f492e8b56cd7",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Новые : Документ.ЕГАИС_ПересчетАлкогольнойПродукции.Форма.ФормаДокумента",
+"name": "Новые : Документ.ЕГАИС_ПересчетАлкогольнойПродукции.Форма.ФормаДокумента",
+"fullName": "",
+"start": 1565859755556,
+"stop": 1565859755922,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуНовогоДокумента"
+}

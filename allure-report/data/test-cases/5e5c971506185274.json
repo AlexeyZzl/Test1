@@ -1,0 +1,48 @@
+{
+  "uid" : "5e5c971506185274",
+  "name" : "Существующие : Документ.СнятиеРезервов.Форма.ФормаДокумента",
+  "fullName" : "",
+  "historyId" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Документы.Существующие : Документ.СнятиеРезервов.Форма.ФормаДокумента",
+  "time" : {
+    "start" : 1565859803942,
+    "stop" : 1565859804181,
+    "duration" : 239
+  },
+  "description" : "ТестДолжен_ОткрытьФормуСуществующегоЭлементаДокумента",
+  "descriptionHtml" : "<p>ТестДолжен_ОткрытьФормуСуществующегоЭлементаДокумента</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Документы"
+  }, {
+    "name" : "feature",
+    "value" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+  }, {
+    "name" : "package",
+    "value" : "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+  }, {
+    "name" : "host",
+    "value" : "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e5c971506185274.json",
+  "parameterValues" : [ ]
+}

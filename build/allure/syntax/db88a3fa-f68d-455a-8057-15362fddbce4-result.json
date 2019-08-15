@@ -1,0 +1,30 @@
+{
+    "uuid": "db88a3fa-f68d-455a-8057-15362fddbce4",
+    "historyId": "Ошибок. не обнаружено",
+    "name": "Ошибок. не обнаружено",
+    "fullName": "Ошибок. не обнаружено",
+    "start": 63701466857000,
+    "stop": 63701467152000,
+    "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+    },
+    "status": "skipped",
+    "stage": "finished",
+    "steps": [],
+    "parameters": [],
+    "labels": [
+        {
+            "name": "package",
+            "value": "Ошибок"
+        },
+        {
+            "name": "story",
+            "value": "не обнаружено"
+        }
+    ],
+    "links": [],
+    "attachments": [],
+    "description": "не обнаружено"
+}

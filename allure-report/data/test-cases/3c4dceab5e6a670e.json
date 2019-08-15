@@ -1,0 +1,52 @@
+{
+  "uid" : "3c4dceab5e6a670e",
+  "name" : "Константа.ПараметрыАдресногоКлассификатора: Проверка доступа на Чтение Не-Администраторами",
+  "fullName" : "",
+  "historyId" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests.ПроверкаЧтенияНеАдминистраторами.Константа.ПараметрыАдресногоКлассификатора: Проверка доступа на Чтение Не-Администраторами",
+  "time" : {
+    "start" : 1565860050429,
+    "stop" : 1565860050439,
+    "duration" : 10
+  },
+  "description" : "Тест_ПроверитьНеАдминистраторскиеПраваНаЧтение",
+  "descriptionHtml" : "<p>Тест_ПроверитьНеАдминистраторскиеПраваНаЧтение</p>\n",
+  "status" : "broken",
+  "statusMessage" : "{ВнешняяОбработка.УтвержденияBDD.МодульОбъекта(293)}: [Failed] Ожидали, что проверяемое значение (Ложь) является ИСТИНОЙ.\nКонстанта.ПараметрыАдресногоКлассификатора недоступно для чтения ролями без привилегий\n\tВызватьИсключение Префикс + \" \" + СообщениеОшибки;",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "ПроверкаЧтенияНеАдминистраторами"
+  }, {
+    "name" : "feature",
+    "value" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestReadNotAdmin.epf"
+  }, {
+    "name" : "host",
+    "value" : "C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3c4dceab5e6a670e.json",
+  "parameterValues" : [ ]
+}

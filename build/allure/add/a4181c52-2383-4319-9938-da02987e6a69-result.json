@@ -1,0 +1,40 @@
+{
+"uuid": "0dad1b39-1948-4c14-b82e-817c608f1a15",
+"historyId": "УпрФорма # Тесты_ОткрытиеФормКонфигурации.Отчеты.Отчет.ПредполагаемаяСебестоимостьПродукцииПриИзмененииЦеныНаКомпоненты.Форма",
+"name": "Отчет.ПредполагаемаяСебестоимостьПродукцииПриИзмененииЦеныНаКомпоненты.Форма",
+"fullName": "",
+"start": 1565859877224,
+"stop": 1565859877810,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Отчеты"
+},
+{
+"name": "feature",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+},
+{
+"name": "package",
+"value": "УпрФорма # C:\\Program Files (x86)\\Jenkins\\workspace\\TREND_Test1\\tools\\tests\\TestOpenForms.epf"
+},
+{
+"name": "host",
+"value": "УпрФорма # Тесты_ОткрытиеФормКонфигурации"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФормуПоПолномуИмениФормы"
+}

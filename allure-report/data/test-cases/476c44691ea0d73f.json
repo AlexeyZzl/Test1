@@ -1,0 +1,40 @@
+{
+  "uid" : "476c44691ea0d73f",
+  "name" : "Ошибок. не обнаружено",
+  "fullName" : "Ошибок. не обнаружено",
+  "historyId" : "Ошибок. не обнаружено",
+  "time" : {
+    "start" : 63701466857000,
+    "stop" : 63701467152000,
+    "duration" : 295000
+  },
+  "description" : "не обнаружено",
+  "descriptionHtml" : "<p>не обнаружено</p>\n",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Ошибок"
+  }, {
+    "name" : "story",
+    "value" : "не обнаружено"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "476c44691ea0d73f.json",
+  "parameterValues" : [ ]
+}
